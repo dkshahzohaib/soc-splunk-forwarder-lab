@@ -1,2 +1,2 @@
 # soc-splunk-forwarder-lab
-Splunk-based SIEM lab demonstrating log collection via Universal Forwarder and analysis using SPL. Covers Windows event monitoring, failed login detection, brute-force patterns, and basic security use cases.
+A hands-on SOC lab using Splunk Enterprise and Universal Forwarder to simulate real-world SIEM operations. Collects Windows event logs, forwards them for indexing, and analyzes security events using SPL to detect failed logins, brute-force attempts, and suspicious activity.
